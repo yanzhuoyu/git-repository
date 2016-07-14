@@ -1,0 +1,90 @@
+html{
+    font-size: 16px;
+}
+*{
+    padding:0;
+    max-width: 640px;
+    margin: 0 auto;
+    color:#ffffff;
+    font-family: "HiraginoSansGB","Microsoft YaHei", serif;
+    text-decoration: none;
+}
+
+img{
+    max-width: 100%;
+    margin: 0 auto;
+}
+div{
+    display: block;
+}
+.header{
+    top: 0;
+    position: fixed;
+    width: 100%;
+    height: 89px;
+    background-color: #22292c;
+}
+.logo1{
+    margin:3% 0 0 2.6%;
+    position: absolute;
+}
+.input1{
+    font-size: 1.625rem;
+    position: absolute;
+    margin: 4% 0 0 7.8%;
+}
+h2{
+    text-align: center;
+    font-size: 2.125rem;
+    padding-top: 20px;
+}
+.logo2{
+    position:absolute;
+    right: 2%;
+    top: 39px;
+}
+.mainbody{
+    width: 100%;
+    background-color: #68cdd5;
+    margin-top: 89px;
+    height: 1000px;
+}
+.logo3{
+    width: 8.7%;
+    float: left;
+    padding: 3.3% 0 0 5.5%;
+}
+.logo4{
+    float: left;
+    width: 31%;
+    margin: 17.8% 0 0 17%;
+}
+.input3{
+    max-width: 80%;
+    padding-top:47.7%;
+
+}
+.input3 p{
+    font-size:1.875rem;
+}
+h1{
+    font-size: 1.5rem;
+}
+.logo5{
+    padding: 0;
+    width: 18.8%;
+    float: left;
+    margin: 28% 0 0 21.6%;
+}
+.logo5 h1{
+    margin-left:-20px;
+}
+.logo6{
+    padding: 0;
+    width: 17.2%;
+    float: right;
+    margin: 28% 21.6% 0 0;
+}
+.logo6 h1{
+    margin-left: -11px;
+}
